@@ -1,0 +1,5 @@
+//Comprobar si está instalado Python (Windows)
+//Revisar version de Python
+py --version
+project-name\Scripts\activate.bat
+py -m pip install Django
